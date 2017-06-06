@@ -1,3 +1,5 @@
+*** This repository is retired. See my other project for the updated version: [conreactor](https://github.com/fisakov/conreactor) ***
+
 Unification
 ===========
 
